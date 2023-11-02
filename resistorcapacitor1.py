@@ -1,3 +1,4 @@
+# Trace Carter
 """TPRG2131 Winter 202x RC class starter with simplistic test code."""
 
 class ResistorCapacitor (object):

@@ -1,3 +1,4 @@
+# Trace Carter
 # Resistor class models a resistor that behaves according to Ohm's law.
 
 # MODIFIED TUE FEB 6: fix the PyLint warnings in the unit test code.
